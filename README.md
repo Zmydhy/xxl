@@ -4,6 +4,7 @@
 1、每一个项目可以理解为一个执行器。  
 2、在调度任务界面根据执行器id展示出该项目的所有的任务调度计划，并且展示出当前任务状态。   
 3、 可以展示任务列表，更新任务，新增任务，启动任务，停止任务，执行一次，删除任务等操作。 
+![avatar](https://github.com/Zmydhy/auth/blob/master/img/permission.png?raw=true)   
 ### 配置文件
 ```
 ### xxl-job admin address list, such as "http://address" or "http://address01,http://address02"
